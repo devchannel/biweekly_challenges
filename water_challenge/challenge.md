@@ -5,7 +5,7 @@ The Problem
 
 Given a sequence (array) of positive integers. Each integer represents a bar with the height of that integer. All the bars next to each other make a shape (like a bar diagram). Imagine water is poured on top of this shape. What is the volume of water the shape can hold?
 
-![](/static/files/images/example.png)
+![](./example.png)
 
 As illustrated in the image, the solution for the input `[2,6,3,5,2,8,1,4,2,2,5,3,5,7,4,1]` would be 35.
 
