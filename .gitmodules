@@ -1,0 +1,3 @@
+[submodule "water_challenge/submissions/ferdie"]
+	path = water_challenge/submissions/ferdie
+	url = https://github.com/Ferdinand-vW/WaterVolumeSolver
